@@ -98,18 +98,18 @@ collections:
     identifier_field: slug
     summary: "{{title}}"
     fields:
-      - label: "Slug"
-        name: "slug"
-        widget: "string"
-      - label: "Component name"
-        name: "component name"
-        widget: "string"
       - label: "Last update"
         name: "date"
         widget: "datetime"
         format: "YYYY-MM-DD"
         dateFormat: "YYYY-MM-DD"
         timeFormat: false
+      - label: "Component name"
+        name: "component name"
+        widget: "string"
+      - label: "Slug"
+        name: "slug"
+        widget: "string"
       # - label: Author
       #   name: "author"
       #   widget: relation
