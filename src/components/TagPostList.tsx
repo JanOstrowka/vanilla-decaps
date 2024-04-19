@@ -1,5 +1,5 @@
 import React from "react";
-import { PostContent } from "../lib/posts";
+import { PostContent } from "../lib/component";
 import { TagContent } from "../lib/tags";
 import PostItem from "./PostItem";
 import Pagination from "./Pagination";
