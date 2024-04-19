@@ -90,7 +90,7 @@ collections:
 
   - name: "component"
     label: "Components"
-    folder: "content/component/"
+    folder: "content/posts/"
     extension: "mdx"
     format: "frontmatter"
     create: true
